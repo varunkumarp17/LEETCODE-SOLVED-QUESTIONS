@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
