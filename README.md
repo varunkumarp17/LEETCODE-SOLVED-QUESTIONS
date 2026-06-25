@@ -21,5 +21,14 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0507-perfect-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
