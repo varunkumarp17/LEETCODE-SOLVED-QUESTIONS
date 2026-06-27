@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,5 +48,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
