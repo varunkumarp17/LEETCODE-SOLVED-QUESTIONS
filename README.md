@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0412-fizz-buzz) |
