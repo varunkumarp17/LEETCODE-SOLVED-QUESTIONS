@@ -21,6 +21,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
