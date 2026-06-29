@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -46,10 +47,12 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0344-reverse-string) |
 ## Dynamic Programming
