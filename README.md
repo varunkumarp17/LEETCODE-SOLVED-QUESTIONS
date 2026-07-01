@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0412-fizz-buzz) |
@@ -36,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/varunkumarp17/LEETCODE-SOLVED-QUESTIONS/tree/master/0412-fizz-buzz) |
 ## Simulation
